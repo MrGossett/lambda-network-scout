@@ -24,8 +24,7 @@ END RequestId: ...
 REPORT RequestId: ...	Duration: 29.23 ms	Billed Duration: 30 ms	Memory Size: 512 MB	Max Memory Used: 41 MB
 ```
 
-Looks exactly the same.
-
+Looks exactly the same. Also, disabled the "automatically assign Public IP addresses" config in the VPC subnets, and there was no change.
 
 ## Build
 
